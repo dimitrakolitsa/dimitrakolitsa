@@ -1,5 +1,5 @@
 # 📌 About Me:
-📚 I am studying Electrical and Computer Engineering at Aristotle University of Thessaloniki<br>💻 I’m currently learning Octave and Python<br>🥑 Fun fact: I like growing avocados
+📚 I am studying Electrical and Computer Engineering at Aristotle University of Thessaloniki<br>💻 I’m currently learning Octave<br>🥑 Fun fact: I like growing avocados
 
 
 # 💻 Tech Stack:
